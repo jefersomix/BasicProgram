@@ -2,4 +2,4 @@
 
 
 
-Lista de Progrmas Simples feitos seguindo Modelos da FAculdade
+Lista de Progrmas Simples feitos seguindo Modelos da Faculdade
